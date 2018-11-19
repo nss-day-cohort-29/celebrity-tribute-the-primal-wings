@@ -1,5 +1,11 @@
 
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
 
+.navbar-light .navbar-toggler-icon {
+    background-image: url(Fw96Z.png)
+}
 .nav-link{
     color:white;
     
@@ -82,7 +88,7 @@ li{
 }
 .navbar{
     background-color: #9999;
-    color:white;
+    color: white;
     text-align: center;
   height: auto; 
   width: 100%;
