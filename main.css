@@ -63,7 +63,8 @@ li{
     color:white;
     margin: auto;
     width: 100%;
-    justify-content: space-evenly     
+    justify-content: space-evenly;
+    list-style-type: none;  
 }
 
 .dropdown-item{
@@ -148,6 +149,7 @@ nav{
          background-color: #9999;
          box-shadow:  .1em .1em .1em .1em rgba(0,0,0,0.5); 
     }
+
     .summary--introPara{
         color:white;
          background-color: #9999;
@@ -192,6 +194,15 @@ nav{
 
     }
 
+    .awards--awardsList{
+        color:white;
+        text-align: center;
+         height: auto; 
+         width: 100%;
+         background-color: #9999;
+         box-shadow:  .1em .1em .1em .1em rgba(0,0,0,0.5); 
+
+    }
     .personal-rm{
         color:white;
         text-align: center;
