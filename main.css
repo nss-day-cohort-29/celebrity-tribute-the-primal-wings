@@ -63,7 +63,8 @@ li{
     color:white;
     margin: auto;
     width: 100%;
-    justify-content: space-evenly   
+    justify-content: space-evenly;
+    list-style-type: none;  
 }
 
 .dropdown-item{
